@@ -1,0 +1,80 @@
+Arabic Data::FN,LN, LN,FN
+Masud, Faraj, مسعود, فرج
+Aliya, Shah, ,علية
+
+Masud  مسعود
+Faraj  فرج
+
+Aliya علية
+Shah شاه
+
+Tasmeekh Shabazz
+Ghunwah Tabet
+Salam Dajani
+
+Spanish Data::
+Flavio Terrones
+Hernán Olivas
+Adrián Pasqual
+Román Vivar
+Rosita Eva
+
+French Data::
+Cesaire Faucher
+Pascale Travert
+Josée Gauthier
+Régine Lemaire
+Benoit Lécuyer
+
+Chinese Data::
+Shi He 施 他
+Xia Liling 夏 ling陵
+Jiang Lin  江 林
+Ma Qingshan 嘛 青山
+Tian Jiang
+
+Japanese Data::
+Nakayama Kaori 中山 かおり
+Amaya Shigeo 天谷  しげお
+Masuda Ryo   増田   りょう
+Iha Aki     いは   あき
+Takeda Kou  武田  コウ
+
+English Data::
+
+
+
+ar1_firstname = "مسعود"
+ar1_lastname = "فرج"
+ar1_dob = "1414.4 يناير"
+ar1_lang = "Arabic"
+ar1_engfn = "Masud"
+ar1_engln = "Faraj"
+ar1_engdob = "4/Jan/1414"
+
+ar2_firstname = "علية"
+ar2_lastname = "شاه"
+ar2_dob = "1414.4 فبراير"
+ar2_lang = "Arabic"
+ar2_engfn = "Aliya"
+ar2_engln = "Shah"
+ar2_engdob = "4/Feb/1414"
+
+sp1_firstname = "علية"
+sp1_lastname = "شاه"
+sp1_dob = "1414.4 يناير"
+sp1_lang = "Spanish"
+sp1_engfn = "Aliya"
+sp1_engln = "Shah"
+sp1_engdob = "4/Jan/1414"
+
+
+
+
+"firstname":"",
+"lastname":"",
+"dob":"",
+"lang":"",
+"engfn":"",
+"engln":"",
+"engdob":""
